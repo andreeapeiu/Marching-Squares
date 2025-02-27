@@ -29,8 +29,8 @@ utilizarea alocarii dinamice de memorie, procesand comenzile primite.
    - `resize()`: Parcurg matricea si creez o noua matrice de 4x4 ori mai mare
      pe care o umplu multiplicand fiecare pixel.
 
-   1 0 1 -> 
-            1 0 1
+   1 0 1 -> 1 0 1
+   
             1 0 1
             1 0 1
             1 0 1
