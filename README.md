@@ -30,7 +30,9 @@ utilizarea alocarii dinamice de memorie, procesand comenzile primite.
      pe care o umplu multiplicand fiecare pixel.
 
    1 0 1 -> 1 0 1
+
             1 0 1
+            
             1 0 1
             1 0 1
             1 0 1
